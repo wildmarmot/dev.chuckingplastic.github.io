@@ -3444,7 +3444,6 @@ input, select, textarea {
 	body.landing #header {
 		background: transparent;
 		box-shadow: none;
-		position: absolute;
 	}
 
 /* Banner */
