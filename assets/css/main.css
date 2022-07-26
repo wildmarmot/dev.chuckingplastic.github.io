@@ -3511,9 +3511,9 @@ input, select, textarea {
 			#banner .content .image {
 				border-radius: 100%;
 				display: inline-block;
-				height: 50em;
+				height: 40em;
 				vertical-align: middle;
-				width: 50em;
+				width: 40em;
 			}
 
 				#banner .content .image img {
